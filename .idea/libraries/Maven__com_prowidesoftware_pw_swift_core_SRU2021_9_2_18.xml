@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.prowidesoftware:pw-swift-core:SRU2021-9.2.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prowidesoftware/pw-swift-core/SRU2021-9.2.18/pw-swift-core-SRU2021-9.2.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prowidesoftware/pw-swift-core/SRU2021-9.2.18/pw-swift-core-SRU2021-9.2.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/prowidesoftware/pw-swift-core/SRU2021-9.2.18/pw-swift-core-SRU2021-9.2.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
